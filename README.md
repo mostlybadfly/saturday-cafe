@@ -1,1 +1,1 @@
-spaulding brunch club site ([spauldingbrunch.club](spauldingbrunch.club))
+spaulding brunch club site ([spauldingbrunch.club](http://spauldingbrunch.club))
