@@ -1,10 +1,6 @@
 body{
-  background-color: skyblue;
+  background-color: darkseagreen;
   text-align: center;
-  font-family: monospace;
-  color: navy;
-}
-
-#past{
-  color: skyblue;
+  font-family: Consolas, monaco, monospace;
+  color: indigo;
 }
