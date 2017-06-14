@@ -1,5 +1,5 @@
 today =  new Date();
-if (today.getDay() != 0)
+if (today.getDay() != 6)
   today.setDate(today.getDate() + 7 - today.getDay());
   
 y = today.getFullYear();
