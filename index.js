@@ -1,6 +1,6 @@
 today =  new Date();
 if (today.getDay() != 6)
-  today.setDate(today.getDate() + 6 - today.getDay());
+  today.setDate(today.getDate() + 7 - today.getDay());
   
 y = today.getFullYear();
 m = today.getMonth() + 1;
