@@ -1,1 +1,1 @@
-spaulding brunch club site ([spauldingbrunch.club](http://spauldingbrunch.club))
+Site for times/locations of Super Saturday Cafe Coding Club (SSCCC for short)
