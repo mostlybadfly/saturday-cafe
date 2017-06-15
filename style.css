@@ -6,6 +6,7 @@ body{
 }
 
 .info-list {
+  font-size: 20px;
   list-style: none;
   text-align: left;
   display: inline-block;
