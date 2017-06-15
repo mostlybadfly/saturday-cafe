@@ -6,7 +6,6 @@ body{
 }
 
 .info-list {
-  font-size: 20px;
   list-style: none;
   text-align: left;
   display: inline-block;
@@ -17,10 +16,6 @@ img.emoji {
   width: 1em;
   margin: 0 .05em 0 .1em;
   vertical-align: -0.1em;
-}
-
-.indent {
-  padding-left: 5.4em;
 }
 
 li {
