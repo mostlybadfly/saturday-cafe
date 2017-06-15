@@ -4,3 +4,13 @@ body{
   font-family: Consolas, monaco, monospace;
   color: indigo;
 }
+
+.info-list {
+  list-style: none;
+  font-size: 20px;
+  text-align: left;
+  display: inline-block;
+}
+
+.twa-fireworks {
+  background-image: url("https://twemoji.maxcdn.com/2/svg/1f386.svg"); }
